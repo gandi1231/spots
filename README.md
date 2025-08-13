@@ -15,7 +15,7 @@ The Spots webpage is thirth project in the Software Engineering program at Tripl
 
 This webpage is deployed by Github Pages
 
-- Deployment Link: https://github.com/gandi1231/spots.git
+- Deployment Link: https://gandi1231.github.io/spots/
 
 ## Video Walkthrough
 

@@ -20,3 +20,8 @@ This webpage is deployed by Github Pages
 ## Video Walkthrough
 
 - Video Link: https://drive.google.com/file/d/1-5YcztDYvQNdsJ9yzU6o6fgYVgt7qPLp/view?usp=sharing
+
+## Project Pitch Video
+ 
+ Check out [this video](https://drive.google.com/file/d/14vGA6Ky39D657YNdzFmhvRhJhZ6Heidv/view?usp=sharing), where I describe my 
+ project and some challenges I faced while building it.
